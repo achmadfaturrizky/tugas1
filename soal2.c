@@ -109,7 +109,7 @@ int main()
             case 0 ... 199999:
                 discount = 0.0;
                 break;
-            case 200000 ... 499999:
+            case 200000 ... 549000:
                 discount = 0.1;
                 break;
             case 550000 ... 1000000:
